@@ -1,0 +1,9 @@
+C:\Users\OtherUser\Desktop\Garage Ige\Garage Ige\bin\Debug\Garage Ige.exe.config
+C:\Users\OtherUser\Desktop\Garage Ige\Garage Ige\bin\Debug\Garage Ige.exe
+C:\Users\OtherUser\Desktop\Garage Ige\Garage Ige\bin\Debug\Garage Ige.pdb
+C:\Users\OtherUser\Desktop\Garage Ige\Garage Ige\obj\Debug\Garage Ige.csprojAssemblyReference.cache
+C:\Users\OtherUser\Desktop\Garage Ige\Garage Ige\obj\Debug\Garage_Ige.home.resources
+C:\Users\OtherUser\Desktop\Garage Ige\Garage Ige\obj\Debug\Garage_Ige.Properties.Resources.resources
+C:\Users\OtherUser\Desktop\Garage Ige\Garage Ige\obj\Debug\Garage Ige.csproj.GenerateResource.cache
+C:\Users\OtherUser\Desktop\Garage Ige\Garage Ige\obj\Debug\Garage Ige.exe
+C:\Users\OtherUser\Desktop\Garage Ige\Garage Ige\obj\Debug\Garage Ige.pdb
